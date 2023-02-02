@@ -1,7 +1,7 @@
 1
 2
 3
-4
+4 change by second user in branch Feature1 file 3.txt
 5 Change by first user in master branch
 6
 7
