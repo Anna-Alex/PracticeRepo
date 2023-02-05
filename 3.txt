@@ -8,4 +8,6 @@
 8 Another change by first user
 9 Change in main branch by Anton
 10 Change in MyWork branch by me
-11 My change in MyWork branch
+10 New change by Anton without preceding sync
+11 Pushed change by Anton
+12 My change in MyWork branch
